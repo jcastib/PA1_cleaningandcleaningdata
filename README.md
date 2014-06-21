@@ -1,7 +1,7 @@
 PA1_cleaningandcleaningdata
 ===========================
 
-# PA1 - Getting and Cleaning data peer assesment project
+## Data peer assesment project
 
 The repository has three different files
 
